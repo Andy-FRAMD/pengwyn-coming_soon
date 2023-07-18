@@ -1,0 +1,48 @@
+:root {
+    --gold: #F4BB03;
+}
+
+body {
+    background-color: #111111;
+}
+
+.text-gold {
+    color: var(--gold);
+}
+
+.col-4 h1 {
+    font-size: 6.9vh;
+}
+
+.col-4 h2 {
+    font-size: 4vh;
+}
+
+.col-2 span {
+    font-size: 1.7vh;
+}
+
+.col-3 span {
+    font-size: 2.2vh;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.pointer:hover{
+    color: var(--gold);
+}
+
+.col-4 span {
+    font-size: 2.3vh;
+}
+
+
+.col-6 span {
+    font-size: 2.8vh;
+}
+.text-secondary{
+    color: #FFFFFF !important;
+    opacity: 0.6499999761581421;
+}
