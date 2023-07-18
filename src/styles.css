@@ -10,7 +10,7 @@ body {
     color: var(--gold);
 }
 
-.col-4 h1 {
+.col-5 h1 {
     font-size: 6.9vh;
 }
 
@@ -34,14 +34,14 @@ body {
     color: var(--gold);
 }
 
-.col-4 span {
+.col-5 span {
     font-size: 2.3vh;
 }
 
-
 .col-6 span {
-    font-size: 2.8vh;
+    font-size: 2.3vh;
 }
+
 .text-secondary{
     color: #FFFFFF !important;
     opacity: 0.6499999761581421;
