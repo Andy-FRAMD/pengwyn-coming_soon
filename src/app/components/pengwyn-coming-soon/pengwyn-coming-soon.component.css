@@ -1,0 +1,29 @@
+
+.text_s_8 {
+    font-size: 8px !important;
+}
+
+
+.text_s_13 {
+    font-size: 13px;
+}
+
+.text_s_20 {
+    font-size: 20px;
+}
+
+.text_s_10 {
+    font-size: 10px;
+}
+
+.text_s_15 {
+    font-size: 15px;
+}
+
+
+@media (width < 1518px) {
+    .fs_10vw {
+        font-size: 2.10vw !important;
+    }
+    
+  }
